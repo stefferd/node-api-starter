@@ -1,0 +1,22 @@
+{
+  "name": "node-api-heroku-example",
+  "version": "1.0.0",
+  "description": "A simple API built in Node and Express hosted on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "2.8.4",
+    "express": "4.16.1"
+  },
+  "engines": {
+    "node": "5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefferd/starter-kit/heroku"
+  },
+  "author": "Stef van den Berg",
+  "license": "MIT"
+}
